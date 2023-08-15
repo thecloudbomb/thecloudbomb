@@ -1,2 +1,2 @@
 The Cloud Bomb
-[image]: # (tcb_logo.png)
+[image]: # (https://https://github.com/thecloudbomb/thecloudbomb/blob/main/tcb_logo.png)
